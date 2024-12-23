@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 using EmployeeNamespace;
-using  Hiring_DateNamespace ;
+using Hiring_DateNamespace;
 using EMPLOYEE_NEW;
 
 namespace MyCLIApp
@@ -9,20 +9,29 @@ namespace MyCLIApp
     {
         static void Main(string[] args)
         {
-
-            #region  testing class emp
-                // Creating an employee instance
-                // Employee emp1 = new Employee(1, "shahd sherif", 3, 50000, DateTime.Now, Gender.Male);
-
-                // // Displaying the employee details
-                // emp1.ShowEmpDetails();
+             #region Employee Testing
+            Console.WriteLine("Employee Details ");
+            
+             Employee emp1 = new Employee(1, "Shahd Sherif", 3, 50000, DateTime.Now, Gender.Female);
+    
+            emp1.ShowEmpDetails();
+            Console.WriteLine();
             #endregion
-            #region Name
-                Hiring_Date hireDate = new Hiring_Date(12, 6, 2024);
-                Console.WriteLine($"Hiring Date: {hireDate.Day}/{hireDate.Month}/{hireDate.Year}");
+
+             #region Hiring Date Testing
+            Console.WriteLine("Hiring Date Details");
+            
+            // Creating a Hiring_Date instance with sample data
+            Hiring_Date hireDate = new Hiring_Date(12, 6, 2024);
+            
+            // Displaying the hiring date details
+            Console.WriteLine($"Hiring Date: {hireDate.Day}/{hireDate.Month}/{hireDate.Year}");
+            Console.WriteLine();
             #endregion
-            #region Name
-                
+
+ 
+            
+            Console.WriteLine();
             #endregion
         }
     }
