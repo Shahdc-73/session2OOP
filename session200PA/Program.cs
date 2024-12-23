@@ -9,10 +9,10 @@ namespace MyCLIApp
     {
         static void Main(string[] args)
         {
+             Hiring_Date hireDate = new Hiring_Date(12, 9, 2024);
              #region Employee Testing
-            Console.WriteLine("Employee Details ");
-            
-             Employee emp1 = new Employee(1, "Shahd Sherif", 3, 50000, DateTime.Now, Gender.Female);
+             Console.WriteLine("Employee Details ");
+             Employee emp1 = new Employee(1, "Shahd Sherif", 3, 50000, hireDate, Gender.Female);
     
             emp1.ShowEmpDetails();
             Console.WriteLine();
