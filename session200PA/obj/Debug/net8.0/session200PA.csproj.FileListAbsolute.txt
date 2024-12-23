@@ -1,0 +1,14 @@
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.AssemblyInfoInputs.cache
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.AssemblyInfo.cs
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.csproj.CoreCompileInputs.cache
+/Users/shahdsherif/session200PA/bin/Debug/net8.0/session200PA
+/Users/shahdsherif/session200PA/bin/Debug/net8.0/session200PA.deps.json
+/Users/shahdsherif/session200PA/bin/Debug/net8.0/session200PA.runtimeconfig.json
+/Users/shahdsherif/session200PA/bin/Debug/net8.0/session200PA.dll
+/Users/shahdsherif/session200PA/bin/Debug/net8.0/session200PA.pdb
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.dll
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/refint/session200PA.dll
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.pdb
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/session200PA.genruntimeconfig.cache
+/Users/shahdsherif/session200PA/obj/Debug/net8.0/ref/session200PA.dll
